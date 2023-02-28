@@ -1,0 +1,8 @@
+let TypeOfExchange = [
+                    {id:1, selectedExchange: "from PLN to EUR"},
+                    {id:2, selectedExchange: "from PLN to USD"},
+                    {id:3, selectedExchange:"from PLN to GBP"},
+                    {id:4, selectedExchange:"from EUR to PLN"},
+                    {id:5, selectedExchange:"from USD to PLN"},
+                    {id:6, selectedExchange:"from GBP to PLN"},
+                ];

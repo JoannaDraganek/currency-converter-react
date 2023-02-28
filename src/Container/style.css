@@ -1,0 +1,7 @@
+.container {
+    background-color: rgb(236, 235, 235);
+    color: rgb(2, 2, 2);
+    font-family: 'Anek Devanagari', sans-serif;
+    margin: 10px auto;
+    max-width: 900px;
+  }
