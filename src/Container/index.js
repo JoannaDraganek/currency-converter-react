@@ -1,9 +1,9 @@
 import "./style.css";
 
 const Container = ({children}) => (
-    <main className="container">
-        {children}
-    </main>
+<body className="body element">
+    {children}
+</body>
 );
 
 export default Container;

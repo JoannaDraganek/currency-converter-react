@@ -1,7 +1,19 @@
-.container {
+.body {
     background-color: rgb(236, 235, 235);
     color: rgb(2, 2, 2);
     font-family: 'Anek Devanagari', sans-serif;
     margin: 10px auto;
     max-width: 900px;
-  }
+}
+
+.element {
+    max-width: 900px;
+    height: auto;
+    resize: both;
+    overflow: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-image: url("../images/money.png");
+    }
