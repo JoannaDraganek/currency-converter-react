@@ -1,7 +1,7 @@
 import "./style.css";
 
 const Container = ({children}) => (
-<body className="body element">
+<body className="body">
     {children}
 </body>
 );
